@@ -3,7 +3,7 @@
 
 # Unreal Haxe 
 
-[![SUPPORT](https://badgen.net/badge/support/Get-help/:Blue?icon=github)](https://1kwithoutvideochal.wixsite.com/unreal-suppport)
+[![SUPPORT](https://badgen.net/badge/:support/:Get-help/:Blue?icon=github)](https://1kwithoutvideochal.wixsite.com/unreal-suppport)
 
 ## Links
 
