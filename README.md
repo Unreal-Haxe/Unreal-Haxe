@@ -3,8 +3,7 @@
 
 # Unreal Haxe 
 
-[![CI](https://img.shields.io/github/workflow/status/Unreal-Haxe/flixel/CI.svg?logo=github)](https://github.com/Unreal-Haxe/Unreal-Haxe/actions?query=workflow%3ACI)
-[![SUPPORT](https://badgen.net/badge/:support/:support/:Blue?icon=github)](https://1kwithoutvideochal.wixsite.com/unreal-suppport)
+[![SUPPORT](https://badgen.net/badge/support/Get-help/:Blue?icon=github)](https://1kwithoutvideochal.wixsite.com/unreal-suppport)
 
 ## Links
 
